@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name stromcek-led)(type KiCad)(uri /home/danman/Projects/stromcek-led/stromcek-led)(options "")(descr ""))
+  (lib (name WS2812D)(type KiCad)(uri ${KIPRJMOD}/WS2812D.pretty)(options "")(descr ""))
+)
